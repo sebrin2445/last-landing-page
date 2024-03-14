@@ -109,7 +109,8 @@ body {
   /* mobile styles */
   @media only screen and (max-width: 767px) { 
     body{
-        background:#c5dff8;
+        background:black;
+        color: #FFF;
     }
     .menu-container {
       flex-direction: column;
